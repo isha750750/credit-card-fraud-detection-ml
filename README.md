@@ -45,7 +45,7 @@ markdown
 Copy
 Edit
 
-## 🚀 How to Run
+ How to Run
 1. Clone the repo
 2. Open the notebook
 3. Upload `creditcard.csv`
