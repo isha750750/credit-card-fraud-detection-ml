@@ -32,3 +32,21 @@ Results
 | Random Forest | 99.91% | 0.93 | 0.88 | 0.90 |
 
  Folder Structure
+
+
+ credit-card-fraud-detection-ml/
+│
+├── creditcard.csv
+├── fraud_detection.ipynb
+├── README.md
+└── model_comparison_report.txt
+
+markdown
+Copy
+Edit
+
+## 🚀 How to Run
+1. Clone the repo
+2. Open the notebook
+3. Upload `creditcard.csv`
+4. Run all cells
